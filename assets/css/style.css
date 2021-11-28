@@ -460,7 +460,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: #555555;
   font-family: "Poppins", sans-serif;
 }
 .section-title h2::after {
@@ -1148,7 +1148,7 @@ section {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: #555555;
 }
 .team .member .member-info p {
   font-style: italic;
